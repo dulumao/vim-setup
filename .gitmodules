@@ -39,4 +39,4 @@
 	url = https://github.com/fatih/vim-go.git
 [submodule "bundle/one-dark"]
 	path = bundle/one-dark
-	url = git@github.com:mhumeSF/one-dark.vim.git
+	url = https://github.com/geoffharcourt/one-dark.vim.git 
