@@ -37,6 +37,6 @@
 [submodule "bundle/go"]
 	path = bundle/go
 	url = https://github.com/fatih/vim-go.git
-[submodule "bundle/one-dark"]
-	path = bundle/one-dark
+[submodule "bundle/onedark"]
+	path = bundle/onedark
 	url = https://github.com/geoffharcourt/one-dark.vim.git
