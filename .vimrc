@@ -1,5 +1,5 @@
 " pathogen
-let g:pathogen_disabled = ['you-complete-me']
+let g:pathogen_disabled = ['youcompleteme']
 execute pathogen#infect()
 
 " enable filetype
